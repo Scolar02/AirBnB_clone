@@ -4,8 +4,7 @@ from uuid import uuid4
 import models
 
 """
-Module BaseModel
-Parent of all classes
+Module BaseModel parent of all classes
 """
 
 
