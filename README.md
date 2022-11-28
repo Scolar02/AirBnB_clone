@@ -3,11 +3,11 @@
 
 ## Contents
 
-[Description](#Description)
-[Environment](#Environment)
-[CLI Guide](#Command interpreter Guide)
-[Examples](#Examples)
-[Acknowledgement](#Acknowledgement)
+- [Description](#Description)
+- [Environment](#Environment)
+- [CLI Guide](#Command interpreter Guide)
+- [Examples](#Examples)
+- [Acknowledgement](#Acknowledgement)
 
 ---------
 
@@ -36,6 +36,6 @@ The cli images will be shown here
 
 ### Acknowlegment
 
-First, I would like to acknowledge God for the grace to be able to do this project, second of all my teammate(@Scolar02(https://github.com/Scolar02)) for all her insight as well as contribution, the team at ALX for all their guide and material and the tech community at large.
+First, I would like to acknowledge God for the grace to be able to do this project, second of all my teammate([@Scolar02](https://github.com/Scolar02)) for all her insight as well as contribution, the team at ALX for all their guide and material and the tech community at large.
 
 
