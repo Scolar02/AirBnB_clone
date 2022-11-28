@@ -5,7 +5,7 @@
 
 - [Description](#Description)
 - [Environment](#Environment)
-- [CLI Guide](#CLI Guide)
+- [CLI_Guide](#CLI Guide)
 - [Examples](#Examples)
 - [Acknowledgement](#Acknowledgement)
 
