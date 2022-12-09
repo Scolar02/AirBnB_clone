@@ -1,0 +1,10 @@
+.places {
+    font-size: 30px;
+}
+.places h1{
+    position: absolute;
+    top: 0;
+}
+.places article {
+    display: flex;
+}
