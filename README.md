@@ -24,15 +24,7 @@ In this first phase, the data model is created, functions for managing objects v
 
 ### Environment
 
-The project was developed and tested on Ubuntu 20.04 LTS and Ubuntu 22.10.
-
-### CLI
-
-Guide on how to start and use cli will be here.
-
-### Examples
-
-The cli images will be shown here
+The project was developed and tested on Ubuntu 20.04 LTS
 
 ### Acknowledgment
 
